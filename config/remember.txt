@@ -1,0 +1,4 @@
+Anaconda to play nicely with fastAPI. 
+
+Had to allow conda to access conda-forge
+conda config --append channels conda-forge

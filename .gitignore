@@ -2,3 +2,4 @@ api/__pycache__/
 __pycache__/*
 .vscode/*
 *.db
+api/db_layer/__pycache__/
